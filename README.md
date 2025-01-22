@@ -21,7 +21,7 @@ OPENAI_API_KEY=
 Clone the project
 
 ```bash
-  git clone https://github.com/gungho0619/next.js-chatgpt.git
+  git clone https://github.com/mohnate/Flamingo-chatbot.git
 ```
 
 Go to the project directory
@@ -56,8 +56,8 @@ React, Next.js, Next Auth, Radix-UI, OpenAI, Tailwind CSS, zustand
 
 ## Authors
 
-- [Flamingo](https://www.github.com/gungho0619)
+- [Mohnate](https://www.github.com/mohnate)
 
 ## Feedback
 
-If you have any feedback, please reach out to me via [mail](tzztson@gmail.com) or [telegram](https://t.me/gungho0619)
+If you have any feedback, please reach out to me via [mail](softking0503@gmail.com) or [telegram](https://t.me/storm_valkyrie)
